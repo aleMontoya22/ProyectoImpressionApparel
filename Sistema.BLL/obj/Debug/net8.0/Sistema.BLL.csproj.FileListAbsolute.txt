@@ -1,0 +1,17 @@
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.BLL\bin\Debug\net8.0\Sistema.BLL.deps.json
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.BLL\bin\Debug\net8.0\Sistema.BLL.dll
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.BLL\bin\Debug\net8.0\Sistema.BLL.pdb
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.BLL\bin\Debug\net8.0\Sistema.DAL.dll
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.BLL\bin\Debug\net8.0\Sistema.Entity.dll
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.BLL\bin\Debug\net8.0\Sistema.DAL.pdb
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.BLL\bin\Debug\net8.0\Sistema.Entity.pdb
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.BLL\obj\Debug\net8.0\Sistema.BLL.csproj.AssemblyReference.cache
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.BLL\obj\Debug\net8.0\Sistema.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.BLL\obj\Debug\net8.0\Sistema.BLL.AssemblyInfoInputs.cache
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.BLL\obj\Debug\net8.0\Sistema.BLL.AssemblyInfo.cs
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.BLL\obj\Debug\net8.0\Sistema.BLL.csproj.CoreCompileInputs.cache
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.BLL\obj\Debug\net8.0\Sistema.BLL.csproj.CopyComplete
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.BLL\obj\Debug\net8.0\Sistema.BLL.dll
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.BLL\obj\Debug\net8.0\refint\Sistema.BLL.dll
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.BLL\obj\Debug\net8.0\Sistema.BLL.pdb
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.BLL\obj\Debug\net8.0\ref\Sistema.BLL.dll

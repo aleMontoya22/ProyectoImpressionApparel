@@ -1,0 +1,14 @@
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.Entity\bin\Debug\net8.0\Sistema.Entity.deps.json
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.Entity\bin\Debug\net8.0\Sistema.Entity.runtimeconfig.json
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.Entity\bin\Debug\net8.0\Sistema.Entity.dll
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.Entity\bin\Debug\net8.0\Sistema.Entity.pdb
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.Entity\obj\Debug\net8.0\Sistema.Entity.csproj.AssemblyReference.cache
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.Entity\obj\Debug\net8.0\Sistema.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.Entity\obj\Debug\net8.0\Sistema.Entity.AssemblyInfoInputs.cache
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.Entity\obj\Debug\net8.0\Sistema.Entity.AssemblyInfo.cs
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.Entity\obj\Debug\net8.0\Sistema.Entity.csproj.CoreCompileInputs.cache
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.Entity\obj\Debug\net8.0\Sistema.Entity.dll
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.Entity\obj\Debug\net8.0\refint\Sistema.Entity.dll
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.Entity\obj\Debug\net8.0\Sistema.Entity.pdb
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.Entity\obj\Debug\net8.0\Sistema.Entity.genruntimeconfig.cache
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.Entity\obj\Debug\net8.0\ref\Sistema.Entity.dll

@@ -1,0 +1,15 @@
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.DAL\bin\Debug\net8.0\Sistema.DAL.deps.json
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.DAL\bin\Debug\net8.0\Sistema.DAL.dll
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.DAL\bin\Debug\net8.0\Sistema.DAL.pdb
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.DAL\bin\Debug\net8.0\Sistema.Entity.dll
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.DAL\bin\Debug\net8.0\Sistema.Entity.pdb
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.DAL\obj\Debug\net8.0\Sistema.DAL.csproj.AssemblyReference.cache
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.DAL\obj\Debug\net8.0\Sistema.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.DAL\obj\Debug\net8.0\Sistema.DAL.AssemblyInfoInputs.cache
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.DAL\obj\Debug\net8.0\Sistema.DAL.AssemblyInfo.cs
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.DAL\obj\Debug\net8.0\Sistema.DAL.csproj.CoreCompileInputs.cache
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.DAL\obj\Debug\net8.0\Sistema.DAL.csproj.CopyComplete
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.DAL\obj\Debug\net8.0\Sistema.DAL.dll
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.DAL\obj\Debug\net8.0\refint\Sistema.DAL.dll
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.DAL\obj\Debug\net8.0\Sistema.DAL.pdb
+C:\Users\alemo\Documents\Proyectos Visual Studio\ImpressionApparel\Sistema.DAL\obj\Debug\net8.0\ref\Sistema.DAL.dll
